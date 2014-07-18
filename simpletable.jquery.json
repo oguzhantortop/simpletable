@@ -1,0 +1,39 @@
+{
+    "name": "simpletable",
+    "title": "jQuery Simple Table Plugin",
+    "description": "jQuery plugin for creating tables with sorting, filtering, custom cell rendering, custom css and custom sorting support.",
+    "keywords": [
+        "html",
+        "table",
+		"grid",
+		"sorting",
+		"cell rendering",
+		"custom sorting",
+		"JSON"
+    ],
+    "version": "1.0.83",
+    "author": {
+        "name": "Oguzhan TORTOP",
+        "url": "https://github.com/oguzhantortop/simpletable/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Oguzhan TORTOP",
+            "email": "oguzhantt@yahoo.com",
+            "url": "http://oguzhant.blogspot.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/oguzhantortop/simpletable/issues",
+    "homepage": "https://github.com/oguzhantortop/simpletable",
+    "docs": "https://github.com/oguzhantortop/simpletable/issues",
+    "download": "",
+    "dependencies": {
+        "jquery": ">=1.6.2"
+    }
+}
